@@ -9,4 +9,7 @@ would like to try ? here the link ^^
 https://bkt-tonton.github.io/Drawing-App/
 
 
+This project it's not finished, inm the future  i will add some functions 
+
+
 
